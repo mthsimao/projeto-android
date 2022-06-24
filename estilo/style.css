@@ -90,6 +90,7 @@ main {
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.404);
+    text-indent: 10px;
 }
 
 main h1 {
